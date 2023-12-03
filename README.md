@@ -3,6 +3,8 @@
 ### 参考にした情報
 https://www.youtube.com/watch?v=TvkmI4CXsh0
 
+## 完成イメージ
+<img src="https://github.com/YoshinoriKobayashi/PinterestLayout/blob/main/completeImage.png">
 
 ## 以下は、ChatGPTを活用して作成して解説です。
 
