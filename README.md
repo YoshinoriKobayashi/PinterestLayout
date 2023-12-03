@@ -1,0 +1,2 @@
+# PinterestLayout
+ SwiftUIでPinterest風のグリッドビューを動的に生成するコード。LazyVStackとGeometryReaderを使用して効率的なレイアウトを実現。
